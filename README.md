@@ -1,7 +1,7 @@
 # 🍜 Minoqi (Felix Abbott)
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9577DA&random=false&width=435&lines=Freelance+Game+Programmer)](https://git.io/typing-svg) -->
-**`Freelance Game Programemr`**
+**`Freelance Game Programmer`**
 
 Hello! I'm minoqi, also known as Felix, and I'm a freelance game programmer. I program a wide array of games from a simple platformer to an open world, 2D or 3D, for mobile, console and PC/Mac/Linux. I currently offer services for Unity and Godot. I have 5+ years of experience and a Bachelors of Science in Game Programming from [Champlain College](https://gamestudio.champlain.edu/). You can view my portfolio [here](https://freelancefelix.carrd.co).
 
