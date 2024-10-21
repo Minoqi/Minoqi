@@ -3,7 +3,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9577DA&random=false&width=435&lines=Freelance+Game+Programmer)](https://git.io/typing-svg) -->
 **`Freelance Game Programmer`**
 
-Hello! I'm minoqi, also known as Felix, and I'm a freelance game programmer. I program a wide array of games from a simple platformer to an open world, 2D or 3D, for mobile, console and PC/Mac/Linux. I currently offer services for Unity and Godot. I have 5+ years of experience and a Bachelors of Science in Game Programming from [Champlain College](https://gamestudio.champlain.edu/). You can view my portfolio [here](https://freelancefelix.carrd.co).
+Hello! I'm minoqi, also known as Felix, and I'm a freelance game programmer. I program a wide array of games from a simple platformer to an open world, 2D or 3D for PC/Mac/Linux. I currently offer services for Unity and Godot. I have 5+ years of experience and a Bachelors of Science in Game Programming from [Champlain College](https://gamestudio.champlain.edu/). You can view my portfolio [here](https://freelancefelix.carrd.co) and my blog [here](https://minoqi.vercel.app).
 
 #
 
@@ -53,7 +53,7 @@ Hello! I'm minoqi, also known as Felix, and I'm a freelance game programmer. I p
 
 <details>
  <summary><h3>👨‍💻 What's Minoqi Up To?</h3></summary>
-   I just finished my first godot addon called [Minos UUID Generator!](https://minosuuidgenerator.carrd.co) It's a program to create UUIDs, currently only for Godot. On top of that I'm also working on a flexible dialogue tool, that will be able to work in any engine/framework that accepts JSON files. While it's being made in Godot, it'll be a standalone aplication that does not require godot to run. I'm also working on two games, with more details coming soon ;)
+   I'm currently working on my first solo-released game *The 10-Day Garden* which will be published on steam by the end of the year! I also have a tool called *Dialogue Forge*, whihc is an engine-agnostic tool to create dialogue for games, that I'm continuing to work on.
 
 
 <!--
